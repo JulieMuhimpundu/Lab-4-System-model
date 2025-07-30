@@ -37,7 +37,6 @@ int main() {
     Customer cust("Alice Johnson", "alice@example.com");
     cust.addOrder(order1);
 
-    // Display customer's orders
     cust.showOrders();
 
     // Create a barista
